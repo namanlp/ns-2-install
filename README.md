@@ -5,7 +5,7 @@ for Arch Linux / Arch Linux based distros like Garuda Linux, Manjaro Linux, Ende
 
 ## Prerequisites 
 
-Installed `paru`, the AUR helper, and a stable internet connection
+Installed `paru`, the AUR helper ( Already installed on Garuda Linux ), and a stable internet connection
 
 ## How to use
 
