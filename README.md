@@ -22,6 +22,8 @@ and finally, run script using
 sh ./ns.sh
 ```
 
+**And don't forget to star this repo**
+
 ## Contact
 
 Facing any problem? You can create an issue in this repo
